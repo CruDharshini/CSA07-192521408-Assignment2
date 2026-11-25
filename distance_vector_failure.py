@@ -1,3 +1,4 @@
+"""Recalculate the distance vectors after the C-D link fails."""
 from distance_vector import run
 
 if __name__ == "__main__":
