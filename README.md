@@ -1,6 +1,6 @@
 # CSA07 – Computer Networks Assignment 2 (CO2)
 
-- Student: Dharshini
+- Name: Dharshini
 - Register number: 192521408
 - Department: Information Technology
 - Academic year: 2026–2027
